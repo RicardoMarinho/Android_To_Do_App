@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="to_do_tasks">To Do Tasks</string>
+    <string name="place_holder">This is Task 1</string>
+    <string name="hint_new_task">Enter new task</string>
+    <string name="save">Save</string>
+    <string name="delete_task_dialog_title">Delete task</string>
+    <string name="delete_task_dialog_message">Are you sure?</string>
+    <string name="dialog_confirm">Yes</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="deleted_task">Task deleted successfuly</string>
+</resources>
